@@ -1,0 +1,3 @@
+{"level":"error","message":"Error fetching pending orders: SQLITE_ERROR: near \"FOR\": syntax error"}
+{"level":"error","message":"Error registering user: SQLITE_CONSTRAINT: UNIQUE constraint failed: Users.username"}
+{"level":"error","message":"Error registering user: SQLITE_CONSTRAINT: UNIQUE constraint failed: Users.username"}
